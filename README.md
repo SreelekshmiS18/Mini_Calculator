@@ -1,4 +1,3 @@
-MiniCalculator
 Welcome to MiniCalculator! 🧮
 
 MiniCalculator is a straightforward and efficient calculator application built using Python and Tkinter. Whether you're performing basic arithmetic or more complex calculations, MiniCalculator has you covered with its user-friendly interface and essential features.
